@@ -292,3 +292,5 @@ cython_debug/
 .DS_Store
 
 .idea/
+
+data/validate.csv
