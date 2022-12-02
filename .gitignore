@@ -294,3 +294,5 @@ cython_debug/
 .idea/
 
 data/validate.csv
+
+*.numbers
