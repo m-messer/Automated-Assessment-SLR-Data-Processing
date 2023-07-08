@@ -1,0 +1,9 @@
+,skills,number,proportion
+0,Only Correctness,80,66.11570247933885
+1,Correctness And Readability,19,15.702479338842975
+2,"Correctness, Readability And Maintainability",7,5.785123966942149
+3,Correctness And Maintainability,5,4.132231404958678
+4,Readability And Maintainability,4,3.3057851239669422
+5,Only Readability,4,3.3057851239669422
+6,Correctness And Documentation,1,0.8264462809917356
+7,Only Maintainability,1,0.8264462809917356
