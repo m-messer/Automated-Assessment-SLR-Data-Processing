@@ -1,6 +1,6 @@
 ,skill,category,number
 0,correctness,dynamic,82
-2,correctness,static,47
+2,correctness,static,51
 7,readability,static,28
 5,maintainability,static,11
 1,correctness,ml,8
