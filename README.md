@@ -4,7 +4,8 @@ Data processing and validation for the paper titled "Automated Grading and Feedb
 Education: A Systematic Review" published in the ACM Transactions on Computing Education.
 
 All the data is stored within the 'data' directory, including:
- - raw data of all the decisions and annotations made by the two screeners,
+ - raw data of all the decisions and annotations made by the two screeners
+ - further annotation of data specifically relating to the performance of automated assessment tools compared when compared to humans
  - processed data ready for visualisation
  - subsets of data utilised for specific visualisations or other work
 
